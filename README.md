@@ -68,10 +68,6 @@ Sites vitrines pour les commerces et acteurs locaux en Corse, automatisation de 
   <img src="https://img.shields.io/github/stars/Blushister?style=for-the-badge&logo=github&labelColor=0E1416&color=0E6B64" alt="Étoiles" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/0E6B64/Blushister" width="800" alt="Contributions des douze derniers mois" />
-</p>
-
 ---
 
 <p align="center"><sub>Modding NeoForge, hébergement de serveurs Minecraft, optimisation côté serveur : écrivez-moi.</sub></p>
